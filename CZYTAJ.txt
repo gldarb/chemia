@@ -1,0 +1,25 @@
+CHEMIA / WYDANIE 2
+
+1200 zadań głównych w 24 działach:
+960 zachowanych + 240 nowych rozbudowanych z grafiką.
+Każdy dział: 40 wcześniejszych zadań + 10 nowych (numery 41-50).
+Nowe zadania: 720 podpunktów i 240 własnych grafik.
+
+Po rozpakowaniu otwórz START.html.
+Katalog pozwala wybrać dział i przejść do nowych zadań.
+
+W folderze każdego działu znajdują się:
+01_Zadania.pdf - część A i B, z miejscem na rozwiązania;
+02_Rozwiazania.pdf - odpowiedzi i punktacja;
+03_Wersja_HTML.html - treści i rozwijane odpowiedzi.
+
+04_Druk_zbiorczy - trzy tomy zadań i trzy tomy rozwiązań;
+05_Przewodnik - plan, analiza matur 2024-2026, mapa programu i źródła;
+Media - 240 własnych grafik używanych przez HTML.
+
+Zachowaj układ folderów. Katalog i wersje HTML działają bez internetu.
+Wzorcowe rysunki do wcześniejszych zadań pozostają w rozwiązaniach PDF.
+
+Formuła 2023, zakres rozszerzony. Stan źródeł: 27.10.2026.
+Zadania, dane modelowe, ilustracje i punktacja są autorskie.
+Materiały nie są publikacją CKE ani wydawnictwa Pazdro.
